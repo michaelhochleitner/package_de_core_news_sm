@@ -1,0 +1,2 @@
+import spacy
+import de_core_news_sm
